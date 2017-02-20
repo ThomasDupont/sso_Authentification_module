@@ -1,6 +1,6 @@
 <?php
 
-namespace sso_Authentification_module\customers;
+namespace sso_authentification_module\customers;
 
 /**
 * SSO authentification

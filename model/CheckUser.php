@@ -2,7 +2,7 @@
 
 namespace sso_authentification_module\model;
 
-use sso_Authentification_module\model\{ Mysql };
+use sso_authentification_module\model\{ Mysql };
 
 /**
 * SSO authentification

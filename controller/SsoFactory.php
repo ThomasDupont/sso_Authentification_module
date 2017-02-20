@@ -1,8 +1,8 @@
 <?php
 
-namespace sso_Authentification_module\controller;
+namespace sso_authentification_module\controller;
 
-use sso_Authentification_module\customers\{ Example };
+use sso_authentification_module\customers\{ Example };
 
 final class SsoFactory {
     /**
